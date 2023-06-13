@@ -8,5 +8,6 @@ Lista atualizada diariamente ♻️
 - ``Selecionando elementos - Before, after, insertBefore, insertAfter, wrap, wrapAll, empty, replaceAll, replaceWith e remove`` ✅
 - ``Manipulando CSS - Função CSS, addClass, removeClass, hasClass e toggleClass`` ✅
 - ``Eventos mouse e teclado utilizando - On, Off, Click, Keyup, Keydown e Keypress`` ✅
+- ``Eventos mouse utilizando - one, dblclick, resize e select `` ✅
 
 
