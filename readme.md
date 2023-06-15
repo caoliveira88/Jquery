@@ -9,5 +9,4 @@ Lista atualizada diariamente ♻️
 - ``Manipulando CSS - Função CSS, addClass, removeClass, hasClass e toggleClass`` ✅
 - ``Eventos mouse e teclado utilizando - On, Off, Click, Keyup, Keydown e Keypress`` ✅
 - ``Eventos mouse utilizando - one, dblclick, resize e select `` ✅
-
-
+- ``Animação utilizando - show, fadeOut, fadeIn, slideUp e slideDown `` ✅
